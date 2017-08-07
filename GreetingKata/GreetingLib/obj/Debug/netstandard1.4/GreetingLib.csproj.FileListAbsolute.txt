@@ -1,0 +1,6 @@
+D:\Development\Katas\GreetingKata\GreetingLib\bin\Debug\netstandard1.4\GreetingLib.deps.json
+D:\Development\Katas\GreetingKata\GreetingLib\bin\Debug\netstandard1.4\GreetingLib.dll
+D:\Development\Katas\GreetingKata\GreetingLib\bin\Debug\netstandard1.4\GreetingLib.pdb
+D:\Development\Katas\GreetingKata\GreetingLib\obj\Debug\netstandard1.4\GreetingLib.AssemblyInfo.cs
+D:\Development\Katas\GreetingKata\GreetingLib\obj\Debug\netstandard1.4\GreetingLib.dll
+D:\Development\Katas\GreetingKata\GreetingLib\obj\Debug\netstandard1.4\GreetingLib.pdb
