@@ -7,14 +7,15 @@ namespace SortNumbersByWeight
     public class Number
     {
         public int Value { get; private set; }
-        public int Weight => SumDigits();
+        public int Weight {get; private set; }
 
         public Number(int value)
         {
             this.Value = value;
+            this.Weight = SumDigits();
         }
 
-        public int SumDigits()
+        private int SumDigits()
         {
             if (this.Value < 10) return this.Value;
 
